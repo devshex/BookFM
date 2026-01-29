@@ -1,0 +1,16 @@
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+
